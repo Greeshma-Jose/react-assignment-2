@@ -1,0 +1,12 @@
+.addUser-button {
+    margin-right: 40px;
+    position:absolute;
+    right:0;
+}
+hr{
+   width: 90%;
+   margin-left: 10px;
+   border-color:white;
+   position: absolute;
+   top:140px;
+}
