@@ -18,3 +18,7 @@
 .card-header {
     text-align-last:justify !important
   }
+.card{
+    display:inline-block !important;
+    width: 25rem;
+  }
