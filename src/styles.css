@@ -3,10 +3,18 @@
     position:absolute;
     right:0;
 }
-hr{
+.hr-style{
    width: 90%;
    margin-left: 10px;
    border-color:white;
    position: absolute;
    top:140px;
 }
+.card-style{
+    max-width: 18rem;
+    top : 5rem;
+    margin-left: 2rem;
+}
+.card-header {
+    text-align-last:justify !important
+  }
